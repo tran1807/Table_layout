@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:stretchColumns="*"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TableRow>
+        <TextView
+            android:layout_span="3"
+            android:background="#FFEB3B"
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+        <TextView
+            android:textSize="30dp"
+            android:text="Dong Cot"/>
+    </TableRow>
+
+</TableLayout>
